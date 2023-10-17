@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repo.
 <br>
-author-Shruti Yadav
+author-Shruti Yadav [stridely Solutions]
